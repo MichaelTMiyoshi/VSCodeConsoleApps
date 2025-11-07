@@ -4,6 +4,19 @@ A couple things about VS Code and GitHub.
 
 VS Code assumes that you are a professional coder.  Which means that it assumes you know how to use Git from the command line.  So here are a few things to do in the VS Code terminal and on GitHub.com that will make you feel like a pro.  (At least a little bit.)
 
+## A better way (that I did second, but listing first)
+
+1. Create a project in Visual Studio Code.
+2. Go to [gitignore.io](https://gitignore.io) to create a .gitignore file.  You will put in "Csharp" and "VisualStudioCode" (without the double quotes) into the box next to the green CREATE button.
+3. Create a text file (you can do this in VS Code or another app that creates text files.)
+4. Name the file .gitignore
+5. Go to your folders and make sure that the .gitignore file is in the same directory as your top level project solution file (.sln).
+6. Use the version control on VS Code to create your repository.
+7. Publish the repository to GitHub.
+8. Remember to pull your code before you work on things.  Then, edit.  Then, commit and push when you are done.  Do this every time you edit your code.
+
+## A second way (that I used first)
+
 On GitHub:
 
 1. Create a repostitory on GitHub.com.  You will obviously need to login to do this.
